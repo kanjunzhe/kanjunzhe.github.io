@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kanjunzhe.github.io</id>
+    <title>Articlogic | 東林話院</title>
+    <updated>2023-11-30T13:55:10.683Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kanjunzhe.github.io"/>
+    <link rel="self" href="https://kanjunzhe.github.io/atom.xml"/>
+    <subtitle>&lt;p&gt;一繩羈絆我靈魂，一網衰弱我精神。&lt;/p&gt;
+&lt;p&gt;一筆可書天下字，一口可涵萬國文。&lt;/p&gt;
+&lt;p&gt;筆走龍蛇有異字，口出狂言不同聲。&lt;/p&gt;
+&lt;p&gt;之乎者也須藏己，風聲雨聲能騙人。&lt;/p&gt;
+&lt;p&gt;禽獸變詐有誰怕？一蓑煙雨任平生。&lt;/p&gt;</subtitle>
+    <logo>https://kanjunzhe.github.io/images/avatar.png</logo>
+    <icon>https://kanjunzhe.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Articlogic | 東林話院</rights>
+    <entry>
+        <title type="html"><![CDATA[赤壁记游（仿写）]]></title>
+        <id>https://kanjunzhe.github.io/post/MFx3AKszU/</id>
+        <link href="https://kanjunzhe.github.io/post/MFx3AKszU/">
+        </link>
+        <updated>2023-11-24T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明天，我将远行（2022 山西）]]></title>
+        <id>https://kanjunzhe.github.io/post/ming-tian-wo-jiang-yuan-xing-2022-shan-xi/</id>
+        <link href="https://kanjunzhe.github.io/post/ming-tian-wo-jiang-yuan-xing-2022-shan-xi/">
+        </link>
+        <updated>2023-11-16T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没想到]]></title>
+        <id>https://kanjunzhe.github.io/post/mei-xiang-dao/</id>
+        <link href="https://kanjunzhe.github.io/post/mei-xiang-dao/">
+        </link>
+        <updated>2023-11-11T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风景在身边]]></title>
+        <id>https://kanjunzhe.github.io/post/feng-jing-zai-shen-bian/</id>
+        <link href="https://kanjunzhe.github.io/post/feng-jing-zai-shen-bian/">
+        </link>
+        <updated>2023-11-03T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用热血挥洒青春]]></title>
+        <id>https://kanjunzhe.github.io/post/yong-re-xie-hui-sa-qing-chun/</id>
+        <link href="https://kanjunzhe.github.io/post/yong-re-xie-hui-sa-qing-chun/">
+        </link>
+        <updated>2023-10-11T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论通过换座位来解决纪律问题是不可取的]]></title>
+        <id>https://kanjunzhe.github.io/post/lun-tong-guo-huan-zuo-wei-lai-jie-jue-ji-lu-wen-ti-shi-bu-ke-qu-de/</id>
+        <link href="https://kanjunzhe.github.io/post/lun-tong-guo-huan-zuo-wei-lai-jie-jue-ji-lu-wen-ti-shi-bu-ke-qu-de/">
+        </link>
+        <updated>2023-10-06T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Fantasy]]></title>
+        <id>https://kanjunzhe.github.io/post/a-fantasy/</id>
+        <link href="https://kanjunzhe.github.io/post/a-fantasy/">
+        </link>
+        <updated>2023-09-19T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长江的哲学（仿写）]]></title>
+        <id>https://kanjunzhe.github.io/post/chang-jiang-de-zhe-xue/</id>
+        <link href="https://kanjunzhe.github.io/post/chang-jiang-de-zhe-xue/">
+        </link>
+        <updated>2023-08-16T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指间的思考]]></title>
+        <id>https://kanjunzhe.github.io/post/zhi-jian-de-si-kao/</id>
+        <link href="https://kanjunzhe.github.io/post/zhi-jian-de-si-kao/">
+        </link>
+        <updated>2023-08-12T16:00:00.000Z</updated>
+    </entry>
+</feed>
